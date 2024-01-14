@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## Profile
-!(https://drive.google.com/uc?export=view&id=1XfD-HfjoZUO27yy-BJPsJg6hDebRc-0w)
+![30107238800815](https://github.com/mohamedelsayed10/portfolio/assets/87568101/d6f0d28a-bc58-4e01-8db2-3296b41edae6)
 
 ## Experience
 
