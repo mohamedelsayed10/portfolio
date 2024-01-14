@@ -1,24 +1,34 @@
 # Data Scientist
-###Experience
-AI and Machine Learning Trainee at Information Technology Institute (ITI)
--Oct 2023 - Present .
--Alexandria, Egypt
 
- 
-Machine Learning Intern at Sprints
--aug 2021 - Oct 2021 · 3 mos
--Hybrid
+## Experience
 
-Data Scientist intern at Nawah.ai 
--Aug 2021 - Sep 2021 · 2 mos
--remote 
+### AI and Machine Learning Trainee
+- **Information Technology Institute (ITI), Alexandria, Egypt**
+- *Oct 2023 - Present*
 
-###Education
-Alexandria University
--Bachelor's degree , Data Science Bachelor's degree , Data Science 
--Aug 2019 - Jul 2023Aug 2019 - Jul 2023
--Grade: 3.67Grade: 3.67
+Currently undergoing training in Artificial Intelligence and Machine Learning at the Information Technology Institute.
 
-gamal abdelanser schoolgamal abdelanser school
--High School Diploma, High School High School Diploma, High School 
--Sep 2016 - Jul 2019
+### Machine Learning Intern
+- **Sprints, Hybrid**
+- *Aug 2021 - Oct 2021 (3 months)*
+
+Contributed to machine learning projects during a 3-month internship at Sprints.
+
+### Data Scientist Intern
+- **Nawah.ai, Remote**
+- *Aug 2021 - Sep 2021 (2 months)*
+
+Worked remotely as a Data Scientist intern at Nawah.ai.
+
+## Education
+
+### Bachelor's Degree in Data Science
+- **Alexandria University, Aug 2019 - Jul 2023**
+- Grade: 3.67
+
+Successfully completed a Bachelor's degree in Data Science.
+
+### High School Diploma
+- **Gamal Abdelanser School, Sep 2016 - Jul 2019**
+
+Completed high school education with a focus on preparing for future academic pursuits.
