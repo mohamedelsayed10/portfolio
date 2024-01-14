@@ -1,5 +1,8 @@
 # Data Scientist
 
+## Profile
+!(https://drive.google.com/file/d/1XfD-HfjoZUO27yy-BJPsJg6hDebRc-0w/view?usp=sharing)
+
 ## Experience
 
 ### AI and Machine Learning Trainee
