@@ -1,9 +1,3 @@
 # add the following to _config.yml file
 title: Mohamed Elsayed
 remote_theme: "pages-themes/cayman"
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
