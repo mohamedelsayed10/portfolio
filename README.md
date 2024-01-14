@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## Profile
-!(https://drive.google.com/file/d/1XfD-HfjoZUO27yy-BJPsJg6hDebRc-0w/view?usp=sharing)
+!(https://drive.google.com/uc?export=view&id=1XfD-HfjoZUO27yy-BJPsJg6hDebRc-0w)
 
 ## Experience
 
