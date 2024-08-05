@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! I’m Mohamed Shehata, an AI and Machine Learning Engineer based in Alexandria, Egypt. Explore my projects and see how I leverage cutting-edge AI techniques to solve complex problems.
 
-![Mohamed Shehata]![30107238800815](https://github.com/mohamedelsayed10/portfolio/assets/87568101/d6f0d28a-bc58-4e01-8db2-3296b41edae6)
+![Mohamed Shehata](https://github.com/mohamedelsayed10/portfolio/assets/87568101/d6f0d28a-bc58-4e01-8db2-3296b41edae6)
 
 
 ## 📞 Contact Information
