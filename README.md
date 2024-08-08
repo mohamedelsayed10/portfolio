@@ -8,8 +8,8 @@ Welcome to my portfolio! I’m Mohamed Shehata, an AI and Machine Learning Engin
 ## 📞 Contact Information
 - **Email:** [mohamed.elsayed.shehata@outlook.com](mailto:mohamed.elsayed.shehata@outlook.com)
 - **Phone:** +201143030697
-- **LinkedIn:** [LinkedIn Profile](#) *(add your LinkedIn profile URL)*
-- **GitHub:** [GitHub Profile](#) *(add your GitHub profile URL)*
+
+
 
 ## 🎓 Education
 
